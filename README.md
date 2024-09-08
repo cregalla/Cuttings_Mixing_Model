@@ -4,7 +4,7 @@ Used to generate mixing models in Cornard et al., (in review)
 
 
 
-# Description: Linear Vertical Mixing model to simuluate observations made from drill cuttings.
+ Description: Linear Vertical Mixing model to simuluate observations made from drill cuttings.
  Author: Christine Regalla
  Written: August 2024
  Code based on a vertical mixing model produced by IODP Exp 338 shipboard
